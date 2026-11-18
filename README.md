@@ -8,7 +8,7 @@
 
   <!-- 2. Tech Stack -->
   <h3>Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,nodejs,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,nodejs,git" alt="Tech Stack" />
 
   <br/><br/>
 
