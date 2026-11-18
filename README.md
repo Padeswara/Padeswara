@@ -1,7 +1,6 @@
 <div align="center">
 
   <!-- 1. Header Banner dengan Animasi Mengetik (Typing SVG) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi%2C+I'm+Swaera+%F0%9F%91%8B;Creative+Frontend+Developer;Interactive+Web+%26+Game+Enthusiast" alt="Typing SVG" />
 
   <!-- 2. Tombol Sosial Media / Kontak (Shields.io) -->
   <p>
@@ -10,9 +9,6 @@
     </a>
     <a href="https://instagram.com/padeswaraa" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:emailkamu@example.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -55,10 +51,10 @@
 
 <div align="center">
   <!-- 3. Kartu Total Kontribusi & Streak -->
-  <img src="https://streak-stats.demolab.com?user=padeswaraa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Padeswara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/>
 
   <!-- 4. Grafik Aktivitas Kontribusi Bulanan -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=padeswaraa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Padeswara&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
